@@ -1,0 +1,9 @@
+/*
+push
+map
+find
+filter
+some
+every
+inculude
+ */
