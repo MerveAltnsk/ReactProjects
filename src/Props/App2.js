@@ -8,8 +8,8 @@ function App() {
       <User 
         name="Merve" 
         surname="Altınışık" 
-        isLoggedIn={true} 
-        number={10} 
+        isLoggedIn={true} // string dışındaki değerleri süslü parantez içinde yazarız
+        number={10} // string dışındaki değerleri süslü parantez içinde yazarız
         friends={["James", "David", "Margot"]}
       />
 
